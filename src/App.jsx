@@ -32,7 +32,7 @@ function App() {
           textAlign: "center",
           width: "100vw",
           height: "100vh",
-          fontSize: "10rem",
+          fontSize: "4rem",
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
@@ -43,6 +43,7 @@ function App() {
           {name.split(" ").map((n) => (
             <div key={n}>{n}</div>
           ))}
+          <br />
           <button onClick={() => setName(getUniqueName())}>New name, please!</button>
         </div>
       </div>
