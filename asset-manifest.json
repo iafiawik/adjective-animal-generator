@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adjective-animal-generator/static/css/main.5253d36e.css",
+    "main.js": "/adjective-animal-generator/static/js/main.24403464.js",
+    "static/js/787.eb70e239.chunk.js": "/adjective-animal-generator/static/js/787.eb70e239.chunk.js",
+    "index.html": "/adjective-animal-generator/index.html",
+    "main.5253d36e.css.map": "/adjective-animal-generator/static/css/main.5253d36e.css.map",
+    "main.24403464.js.map": "/adjective-animal-generator/static/js/main.24403464.js.map",
+    "787.eb70e239.chunk.js.map": "/adjective-animal-generator/static/js/787.eb70e239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5253d36e.css",
+    "static/js/main.24403464.js"
+  ]
+}
